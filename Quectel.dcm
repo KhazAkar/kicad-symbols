@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP BG96
-D LTE-M1, LTE NB-IoT, EGPRS & GNSS module
-K LTE-M1 LTE NB-IoT NB EGPRS GNSS
-F https://www.quectel.com/UploadImage/Downlad/Quectel_BG96_Hardware_Design_V1.3.pdf
-$ENDCMP
-#
-#End Doc Library
