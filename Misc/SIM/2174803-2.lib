@@ -1,0 +1,50 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 2174803-2
+#
+DEF 2174803-2 J 0 40 Y Y 1 L N
+F0 "J" -301 601 50 H V L BNN
+F1 "2174803-2" -300 -700 50 H V L BNN
+F2 "TE_2174803-2" 0 0 50 H I L BNN
+F3 "PUSH-PUSH MICRO SIM CONNECTOR" 0 0 50 H I L BNN
+F4 "None" 0 0 50 H I L BNN
+F5 "2174803-2" 0 0 50 H I L BNN
+F6 "Unavailable" 0 0 50 H I L BNN
+F7 "None" 0 0 50 H I L BNN
+F8 "https://www.te.com/usa-en/product-2174803-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" 0 0 50 H I L BNN
+F9 "Connector" 0 0 50 H I L BNN
+F10 "TE Connectivity" 0 0 50 H I L BNN
+F11 "6" 0 0 50 H I L BNN
+F12 "10 VAC" 0 0 50 H I L BNN
+F13 "Compliant" 0 0 50 H I L BNN
+F14 "2.54 mm[.1 in]" 0 0 50 H I L BNN
+F15 "2174803-2" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -300 600 -300 -600 N
+P 2 0 0 10 -300 -600 300 -600 N
+P 2 0 0 10 300 -600 300 600 N
+P 2 0 0 10 300 600 -300 600 N
+X RST C2 -500 300 200 R 40 40 0 0 I 
+X VCC C1 500 500 200 L 40 40 0 0 W 
+X CLK C3 -500 200 200 R 40 40 0 0 I C
+X VPP C6 -500 100 200 R 40 40 0 0 I 
+X GND C5 500 -400 200 L 40 40 0 0 W 
+X I/O C7 -500 -200 200 R 40 40 0 0 B 
+X SW SW -500 0 200 R 40 40 0 0 I 
+X SHELLGND C8 500 -500 200 L 40 40 0 0 W 
+X SHELLGND C9 500 -500 200 L 40 40 0 0 W 
+X SHELLGND C10 500 -500 200 L 40 40 0 0 W 
+X SHELLGND C11 500 -500 200 L 40 40 0 0 W 
+X SHELLGND C12 500 -500 200 L 40 40 0 0 W 
+X SHELLGND C13 500 -500 200 L 40 40 0 0 W 
+X SHELLGND C14 500 -500 200 L 40 40 0 0 W 
+X SHELLGND C15 500 -500 200 L 40 40 0 0 W 
+X SHELLGND C16 500 -500 200 L 40 40 0 0 W 
+X SHELLGND C17 500 -500 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

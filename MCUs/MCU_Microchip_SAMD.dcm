@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAMD09D14A-MU
+D SMART ARM-Based Microcontroller
+K ARM SMART Microcontroller Atmel SAM D09
+$ENDCMP
+#
+#End Doc Library
