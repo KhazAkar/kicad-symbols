@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MX30LF1G18AC
+D 1 Gb NAND Flash
+K 1 Gb NAND Flash
+$ENDCMP
+#
+$CMP MX30LF1G18AC-TI
+D 1 Gb NAND Flash
+K 1 Gb NAND Flash
+F https://www.macronix.com/Lists/Datasheet/Attachments/6855/MX30LF1G18AC,%203V,%201Gb,%20v1.2.pdf
+$ENDCMP
+#
+#End Doc Library

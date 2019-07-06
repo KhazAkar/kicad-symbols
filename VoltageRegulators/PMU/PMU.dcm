@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACT8945A
+D Power Management Unit designed for SAM9 and SAMA5Dx Microchip MPUs
+K PMU Power Management SAM9 SAMA5
+F https://active-semi.com/wp-content/uploads/ACT8945A_Datasheet.pdf
+$ENDCMP
+#
+$CMP ACT8945AQJ305-T
+D Power Management Unit designed for SAM9 and SAMA5Dx Microchip MPUs
+K PMU Power Management SAM9 SAMA5
+F https://active-semi.com/wp-content/uploads/ACT8945A_Datasheet.pdf
+$ENDCMP
+#
+$CMP ACT8945AQJ405-T
+D Power Management Unit designed for SAM9 and SAMA5Dx Microchip MPUs
+K PMU Power Management SAM9 SAMA5
+F https://active-semi.com/wp-content/uploads/ACT8945A_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
