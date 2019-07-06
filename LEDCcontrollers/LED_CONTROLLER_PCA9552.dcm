@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PCA9552D
-D 16-bit I2C-bus LED driver with programmable blink rates
-F https://www.nxp.com/docs/en/data-sheet/PCA9552.pdf
-$ENDCMP
-#
-#End Doc Library
