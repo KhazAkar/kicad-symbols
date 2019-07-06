@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP G500-GL-00
-D GNSS Device, GPS + GSM
-K GNSS GPS GSM
-$ENDCMP
-#
-#End Doc Library
