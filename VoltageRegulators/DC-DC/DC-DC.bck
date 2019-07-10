@@ -6,12 +6,6 @@ K Dc-DC Buck
 F https://www.diodes.com/assets/Datasheets/AP3409_A.pdf
 $ENDCMP
 #
-$CMP AP3409A
-D 3A, 4MHz HIGH EFFICIENCY SYNCHRONOUS BUCK CONVERTER
-K DC-DC Buck
-F https://www.diodes.com/assets/Datasheets/AP3409_A.pdf
-$ENDCMP
-#
 $CMP AP3435
 D 2.7-5.5V Vin, 1.0MHz, 3.5A, Synchronous Step-Down DC-DC Converter
 K DC-DC Step-down
