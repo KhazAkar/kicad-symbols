@@ -18,7 +18,7 @@ K DC-DC Step-down
 F https://www.diodes.com/assets/Datasheets/AP3435.pdf
 $ENDCMP
 #
-$CMP MIC4723
+$CMP MIC4723YML
 D 3A 2MHz Integrated Switch Buck Regulator
 K DC-DC Buck 3A
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic4723.pdf

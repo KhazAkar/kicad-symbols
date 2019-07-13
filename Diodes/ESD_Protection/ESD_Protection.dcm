@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USBLC6-2
+D Very low capacitance ESD protection
+K ESD USB Ethernet SIM Protection
+F https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+$ENDCMP
+#
+$CMP USBLC6-2P6
+D Very low capacitance ESD protection
+K ESD USB Ethernet SIM Protection
+F https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+$ENDCMP
+#
+$CMP USBLC6-2SC6
+D Very low capacitance ESD protection
+K ESD USB Ethernet SIM Protection
+F https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+$ENDCMP
+#
+#End Doc Library
