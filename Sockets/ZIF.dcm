@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZIF-8
+D ZIF with 8 poles
+K ZIF connector
+$ENDCMP
+#
+#End Doc Library
