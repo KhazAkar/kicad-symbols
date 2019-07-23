@@ -18,4 +18,10 @@ K PMU Power Management SAM9 SAMA5
 F https://active-semi.com/wp-content/uploads/ACT8945A_Datasheet.pdf
 $ENDCMP
 #
+$CMP BQ24078
+D 1.5-A High Battery Voltage Li-Ion Battery Chargers with Power-PathManagement IC
+K PMU Power Path Battery Management
+F http://www.ti.com/lit/ds/symlink/bq24078.pdf
+$ENDCMP
+#
 #End Doc Library

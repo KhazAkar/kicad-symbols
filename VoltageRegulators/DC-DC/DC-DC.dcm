@@ -18,6 +18,18 @@ K DC-DC Step-down
 F https://www.diodes.com/assets/Datasheets/AP3435.pdf
 $ENDCMP
 #
+$CMP AP72200
+D HIGH EFFICIENCY SYNCHRONOUS DC-DC BUCK-BOOST CONVERTER WITH 4.3A SWITCHES
+K DC-DC Buck-Boost Switching
+F https://www.diodes.com/assets/Datasheets/AP72200.pdf
+$ENDCMP
+#
+$CMP FAN49100
+D 2.5A, 1.8MHz, TinyPower™Buck-Boost Regulator
+K TinyPower Buck-Boost DC-DC
+F https://www.onsemi.com/pub/Collateral/FAN49100-D.pdf
+$ENDCMP
+#
 $CMP MIC4723YML
 D 3A 2MHz Integrated Switch Buck Regulator
 K DC-DC Buck 3A

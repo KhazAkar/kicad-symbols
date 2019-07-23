@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAM3U1CB-AU
+D ARM-based Flash MCU
+K MCU ARM Flash
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-6430-32-bit-Cortex-M3-Microcontroller-SAM3U4-SAM3U2-SAM3U1_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
