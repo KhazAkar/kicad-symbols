@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT230XQ
+D Full Speed USB to Basic UART, QFN-16
+K FTDI USB UART interface converter
+F http://www.ftdichip.com/Products/ICs/FT230X.html
+$ENDCMP
+#
+#End Doc Library

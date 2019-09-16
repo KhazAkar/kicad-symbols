@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 7111S2015X02LF
+F None
+$ENDCMP
+#
 $CMP eSIM
 D SIM Card
 K SIM card UICC
