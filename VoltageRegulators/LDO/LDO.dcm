@@ -1,3 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LD39300PT-R
+D 3A Ultra low drop BICMOS voltage regulator
+K LDO BiCMOS Voltage Regulator low drop ultra
+F https://www.st.com/resource/en/datasheet/ld39300.pdf
+$ENDCMP
+#
+$CMP NCP5662MNADJR2G
+F https://www.onsemi.com/pub/Collateral/NCP5662-D.PDF
+$ENDCMP
+#
 #End Doc Library

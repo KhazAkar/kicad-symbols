@@ -1,30 +1,19 @@
-EESchema-LIBRARY Version 2.3  Date: 21-02-2013 11:13:20
-#encoding utf-8
+EESchema-DOCLIB  Version 2.0
 #
-# XC6210B332MR-G
+$CMP LD39300
+D 3A Ultra low drop BICMOS voltage regulator
+K LDO BiCMOS Voltage Regulator low drop ultra
+F https://www.st.com/resource/en/datasheet/ld39300.pdf
+$ENDCMP
 #
-DEF XC6210B332MR-G U 0 10 Y Y 1 F N
-F0 "U" 800 500 60 H V C CNN
-F1 "XC6210B332MR-G" 800 400 60 H V C CNN
-F2 "SOT-25" 800 340 60 H I C CNN
-F3 "~" 0 0 60 H V C CNN
-$FPLIST
- SOT-25
- SOT-25-M
- SOT-25-L
-$ENDFPLIST
-DRAW
-X VIN 1 0 -400 300 R 59 59 1 0 W
-X VSS 2 1600 -300 300 L 59 59 1 0 W
-X CE 3 0 0 300 R 59 59 1 0 U
-X NC 4 0 -200 300 R 59 59 1 0 N
-X VOUT 5 1600 100 300 L 59 59 1 0 O
-P 2 1 0 5 300 300 300 -600 N
-P 2 1 0 5 300 -600 1300 -600 N
-P 2 1 0 5 1300 -600 1300 300 N
-P 2 1 0 5 1300 300 300 300 N
-ENDDRAW
-ENDDEF
-
+$CMP LD39300PT-R
+D 3A Ultra low drop BICMOS voltage regulator
+K LDO BiCMOS Voltage Regulator low drop ultra
+F https://www.st.com/resource/en/datasheet/ld39300.pdf
+$ENDCMP
 #
-#End Library
+$CMP NCP5662MNADJR2G
+F https://www.onsemi.com/pub/Collateral/NCP5662-D.PDF
+$ENDCMP
+#
+#End Doc Library
