@@ -1,16 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP TXB0104DR
-D 4-Bit Bidirectional Voltage-level Translator With Automatic Direction Sensing
-and ±15-kV ESD Protection
-K Level-Shifter 4-Bit Bidirectional Sensing Translator
-F http://www.ti.com/lit/ds/symlink/txb0104.pdf
-$ENDCMP
-#
-$CMP TXB0108PWR
-D 8-Bit Bidirectional Voltage-Level Translator with Auto-Direction Sensing and ±15-kV ESD Protection
-K Level-Shifter 8-Bit Bidirectional Sensing Translator
-F http://www.ti.com/lit/ds/symlink/txb0108.pdf
-$ENDCMP
-#
 #End Doc Library
