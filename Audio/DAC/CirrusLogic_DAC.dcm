@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CS4344-CZZ
+D 10-pin, 24-Bit, 192 kHz Stereo D/A Converter
+K DAC 24bit 192KHz Cirrus Logic Stereo Audio
+F https://statics.cirrus.com/pubs/proDatasheet/CS4344-45-48_F2.pdf
+$ENDCMP
+#
+#End Doc Library

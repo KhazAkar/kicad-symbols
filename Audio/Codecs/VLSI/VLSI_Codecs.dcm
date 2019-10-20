@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VS1053B
+D Ogg Vorbis/MP3/AAC/WMA/FLAC/MIDI Audio Codec
+K MP3 AAC WMA FLAC MIDI Audio Codec
+F http://www.vlsi.fi/fileadmin/datasheets/vs1053.pdf
+$ENDCMP
+#
+#End Doc Library

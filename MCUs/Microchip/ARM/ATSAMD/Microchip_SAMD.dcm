@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAMD09D14A-MU
+D SMART ARM-Based Microcontroller
+K ARM SMART Microcontroller Atmel SAM D09
+$ENDCMP
+#
+$CMP ATSAMD21E15B-AU
+D Cortex-M0+ ARM microcontroller
+K M0+ ARM microcontroller microchip cortex
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAMD21-Family-DataSheet-DS40001882D.pdf
+$ENDCMP
+#
+#End Doc Library
