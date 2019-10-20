@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD5Z3_3T1G
+D Transient Voltage Suppressor, 5.1V, 11.2A, 500mW
+K TVS Transil
+F https://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF
+$ENDCMP
+#
+#End Doc Library
