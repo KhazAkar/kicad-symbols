@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TBD62003A
+D 7-Channel sink type DMOS transistor array
+K 7 channel DMOS transistor array
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=29886&prodName=TBD62003AFWG
+$ENDCMP
+#
+$CMP TPL7407L
+D 40-V 7-Channel Low Side Driver
+K Array 40V 7 channel low side driver
+F https://www.ti.com/lit/ds/symlink/tpl7407l.pdf
+$ENDCMP
+#
+$CMP TPL7407LADR
+D 40-V 7-Channel Low Side Driver
+K Array 40V 7 channel low side driver
+F https://www.ti.com/lit/ds/symlink/tpl7407l.pdf
+$ENDCMP
+#
+#End Doc Library

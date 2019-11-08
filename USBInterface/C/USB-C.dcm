@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UTC2000
+D Basic USB Type-C Controller
+K USB Type-C Controller Basic
+F http://ww1.microchip.com/downloads/en/DeviceDoc/UTC2000%20DS%2000001957C.pdf
+$ENDCMP
+#
+#End Doc Library
