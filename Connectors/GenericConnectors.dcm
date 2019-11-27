@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 02x75_Odd-Even
+D 02x75 generic connector symbol
+K 02 75 odd even
+$ENDCMP
+#
+#End Doc Library

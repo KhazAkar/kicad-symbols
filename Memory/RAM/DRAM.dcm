@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS41C16100C-TSOP
+D 16Mb DRAM WITH EDO PAGE MODE
+K DRAM EDO Page Mode 16Mb
+F http://www.issi.com/WW/pdf/41C-LV16100C.pdf
+$ENDCMP
+#
+#End Doc Library
