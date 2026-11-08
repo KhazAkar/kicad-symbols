@@ -2,11 +2,15 @@
 
 ## Licensing and commercial support
 
-This guidance does not introduce or change a license, establish ownership,
-or relicense any existing content. Preserve existing license grants and
-third-party copyright notices and terms; otherwise unlicensed material
-remains unlicensed. Resolve ownership and the applicable license before
-making a separate licensing change.
+Original hardware design contributions in this repository are licensed
+under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+(SPDX: `CERN-OHL-S-2.0`). See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+The grant covers original hardware design contributions only. Imported
+KiCad symbols, footprints and library definitions, including embedded
+or cached copies, remain under their own terms. Manufacturer CAD,
+datasheets and other third-party material are not relicensed, and no
+permission to use otherwise unlicensed third-party material is implied.
 
 1. **Attribution and license compliance.** Do not remove attribution or
    license notices, misrepresent provenance, or license-wash this code;

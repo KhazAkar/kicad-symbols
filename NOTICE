@@ -1,0 +1,13 @@
+Copyright (c) 2019 KhazAkar (Damian Zareba)
+
+Original hardware design contributions are made available under the
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal.
+SPDX-License-Identifier: CERN-OHL-S-2.0
+
+Source location: https://gitlab.com/r3xxar/kicad-symbols
+
+The grant covers original hardware design contributions only. Imported
+KiCad symbols, footprints and library definitions, including embedded
+or cached copies, remain under their own terms. Manufacturer CAD,
+datasheets and other third-party material are not relicensed, and no
+permission to use otherwise unlicensed third-party material is implied.
